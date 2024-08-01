@@ -10,6 +10,12 @@ My name is Junior Oliveira!
  
   
           
+
+
+
+
+
+
  
 - 👯 Seeking solid knowledge in Clean Code and working on some personal projects
 - 
