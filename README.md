@@ -6,7 +6,7 @@ My name is Junior Oliveira!
  I currently work at Amigos do Bem as a computer support analyst and am studying systems development at Cruzeiro do Sul University.
  
 - 🌱 Studying and working hard on the Java language and Spring Boot
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
  <i class="devicon-spring-original-wordmark colored"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" />
           
