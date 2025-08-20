@@ -1,41 +1,48 @@
-# 👋 Olá, eu sou o Junior Oliveira!
+### 👋 Olá! Eu sou o Junior Oliveira!
 
-🎯 Analista de Suporte de Informática na **Amigos do Bem**  
-📚 Estudante de **Desenvolvimento de Sistemas** na Cruzeiro do Sul University  
-☕ Apaixonado por **Java**, **Spring Boot** e sempre aprendendo algo novo  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="100" height="100"/>
 
 ---
 
-## 🚀 Tecnologias que uso e estudo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Linux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Zabbix" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg">
-</div>
+✨ **Minha jornada:**
+
+Sou **Analista de Suporte de TI** na Amigos do Bem e estudante de **Sistemas de Informação** na Cruzeiro do Sul. Estou aprofundando meus conhecimentos em desenvolvimento de software com foco em **Java** e **Spring Boot**, buscando sempre novos desafios e oportunidades para evoluir na área de tecnologia.
 
 ---
 
-## 📊 Estatísticas do GitHub:
-<div>
-  <a href="https://github.com/TempJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tempjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempjunior&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🚀 Tecnologias e Ferramentas
+
+Minhas principais áreas de estudo e experiência incluem:
+
+| **Linguagens e Frameworks** | **Infraestrutura e DevOps** |
+| :-------------------------: | :-------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> Linux |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/> Docker |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zabbix/zabbix-original.svg" alt="Zabbix" width="40" height="40"/> Zabbix |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> Bash |
 
 ---
 
-## ✨ Um pouco mais sobre mim:
-- 🌱 Atualmente estudando **Java + Spring Boot**  
-- 🖥️ Interesse em **Linux, DevOps, Cloud e Monitoramento (Zabbix)**  
-- 🎮 Gosto muito de **games** e **filmes**  
-- 🙏 Falo sobre Jesus — **O único caminho**  
+## ✨ Um pouco mais sobre mim
+
+- 🌱 Atualmente, focado em aprofundar meu conhecimento em **Java + Spring Boot**.
+- 🖥️ Tenho interesse em áreas como **DevOps**, **Cloud** e, especialmente, **Monitoramento de Sistemas (Zabbix)**.
+- 🎮 Quando não estou programando, adoro **games** e **filmes**.
+- 🙏 Falo sobre Jesus — **O único caminho**.
 
 ---
 
-## 🌍 Onde me encontrar:
-<div> 
-  <a href="https://www.linkedin.com/in/junior-oliveira-91095a297" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+### 🌐 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/junior-oliveira-91095a297" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TempJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TempJunior&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
